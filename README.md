@@ -13,3 +13,7 @@ DIY Ozone Sensor for Education
 - Mosfet module: ![Mosfet](https://github.com/damico/o3-sensor/raw/main/mosfet-module.png)
 - O3 MQ-131 module: ![mq-131](https://github.com/damico/o3-sensor/raw/main/o3-module-img-1.png)
 - DHT22 module: ![dht22](https://github.com/damico/o3-sensor/raw/main/dht22-module.png)
+
+### Software
+
+![Charts](https://github.com/damico/o3-sensor/raw/main/graphs.png)
