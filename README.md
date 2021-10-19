@@ -16,4 +16,4 @@ DIY Ozone Sensor for Education
 
 ### Software
 
-![Charts](https://github.com/damico/o3-sensor/raw/main/graphs.png)
+![Charts](https://github.com/damico/o3-sensor/raw/main/charts.png)
